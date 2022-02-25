@@ -1,0 +1,152 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A memorial which His Excellency the Count de Thunn, envoy extraordinary from his Imperial Majesty, presented to the King of Great Britain, the 3/13 of October, touching the raising of the Siege from before Vienna</title>
+            <author>Thun und Hohenstein, Frantz Siegmund, Graf von, 1639-1702.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1683</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 8 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A62515</idno>
+            <idno type="STC">Wing T1136</idno>
+            <idno type="STC">ESTC R11686</idno>
+            <idno type="EEBO-CITATION">12094653</idno>
+            <idno type="OCLC">ocm 12094653</idno>
+            <idno type="VID">53947</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A62515)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 53947)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 553:4)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A memorial which His Excellency the Count de Thunn, envoy extraordinary from his Imperial Majesty, presented to the King of Great Britain, the 3/13 of October, touching the raising of the Siege from before Vienna</title>
+                  <author>Thun und Hohenstein, Frantz Siegmund, Graf von, 1639-1702.</author>
+               </titleStmt>
+               <extent>2 sheets ([2] p.)   </extent>
+               <publicationStmt>
+                  <publisher>Printed for L. Curtis,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1683.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Reproduction of original Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Vienna (Austria) --  History --  Siege, 1683.</term>
+               <term>Broadsides --  England --  London --  17th century</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-01</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-01</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:53947:1"/>
+            <pb facs="tcp:53947:1" rendition="simple:additions"/>
+            <head>A MEMORIAL WHICH HIS EXCELLENCY THE Count de Thunn, Envoy Extraordinary from His Imperial Majeſty, preſented to the King of <hi>Great Brittain,</hi> the 3/13 of <hi>October,</hi> touching the Raiſing of the Siege from before <hi>Vienna.</hi>
+            </head>
+            <argument>
+               <p>Entred according to Order.</p>
+            </argument>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>THE Underwritten Envoy extraordinary of his Imperial Majeſty, having received Orders from the Emperor his Maſter, to aſſure your Majeſty of the Continuation of his ſincere and amicable friendſhip, and at the ſame time to give a Relation of the happy deliverance of <hi>Vienna,</hi> moſt humbly repreſents, purſuant to his Inſtructions, the Particulars following:</p>
+            <p>His Imperial Majeſty having ſince the Siege of <hi>Vienna,</hi> reſided at <hi>Paſſaw,</hi> the better to haſten the ſuccours of the Empire, deſcended the <hi>Danube,</hi> ſo ſoon as the ſaid Forces had joyned the Army with thoſe of the King of <hi>Poland,</hi> to Aſſiſt in Perſon towards the great and memorable Action they were about to undertake: but judging in his paſſage to the Bridge near <hi>Tuln,</hi> there might probably ariſe ſome diſorder or delay among ſo many different Nations, took a reſolution to continue at a certain place named <hi>Durenſteine,</hi> till all the Forces ſhould have paſſed forwards, and every thing diſpoſed for the attaque, thinking that the Forreſt and Hill over which they were to March, would have been an Affair of many days; but as the Enemy had wanted that Precautionary foreſight to fortifie in the ſaid Forreſt of <hi>Vienna,</hi> as they eaſily might have done, and 'twas expected they would, the Chriſtian Army with far leſs difficulty poſſeſſed themſelves of the ſaid Forreſt, on the 11th of <hi>September,</hi> and became Maſters, after an En<g ref="char:EOLhyphen"/>gagement bloody enough, of the Hill of <hi>Calemburgh,</hi> and thereon planted their great Cannons, after which Succeſs and Advantage, the King of <hi>Poland,</hi> the two Electors of <hi>Bavaria,</hi> and <hi>Saxony,</hi> the Duke of <hi>Lorraine,</hi> together with the reſt of the General Officers, reſolved unanimouſly to fall upon the Enemy, notwithſtanding they were Fortified with a deep Retrenchment at the Foot of the ſaid Hill, and defended with a great Body of their Troops, to oppoſe their deſcent; yet after ſome rencounter with them, they were forced, to quit their Poſt, leaving the Chriſtian Army an open Field, which gave opportunity to the Duke of <hi>Lorrain,</hi> to advance on the Left with the Imperial Troops and Auxiliaries, endeavouring above all things, to afford ſuccour for the City of <hi>Vienna,</hi> in which he met with that good ſucceſs, that part of his Infantry took Poſt by ſix in the Evening before the Scotch gate, which yet did not hinder the Enemy from continuing to play their Cannons againſt the City, with diſpoſition to make and Aſſault until they were att<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>qued in their Trenches, and driven thereout. During this Tranſaction by the Left Wing, the King of <hi>Poland</hi> with his Troops, and others of the Auxiliaries, aſſailed the Enemy on the Right, and
+<pb facs="tcp:53947:2"/>with extraordinary Courage withſtood <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>heir firſt onſet, and in concluſion forced them to make a ſhameful diſorderly flight, even to the abandoning of all their Camp, Cannon, Munition of War, Proviſion, and a valuable Treaſure of Gold, inſomuch that the City of <hi>Vienna</hi> was delivered from the <hi>Turkiſh</hi> Siege, on <hi>Sunday</hi> the 12th of <hi>September.</hi>
+            </p>
+            <p>His Imperial Majeſty primarily Attributes this Signal Victory to the Almighty Power, who in this Fight for the Chriſtians, ſo infatuated their Enemies with a haughty Contempt of the Chriſtian Arms, as ſcornfully to expect them in the open Country, without regarding the defences they might otherwiſe have made.</p>
+            <p>The Night approaching Soldiers and ours by a continual March very much harraſſed, would not purſue the Enemy, contenting themſelves with the principal advantage they deſigned by raiſing the Siege; but knowing the cuſtomary <hi>Turkiſh</hi> uſuage, to rally upon their Enemy when buſied in plundering, which was feared they would now attempt, the Chriſtians Army ſtood in <hi>Battalia</hi> all the Night in the Enemies Camp, where the King of <hi>Poland</hi> found, beſides the Tent, movables and the Horſe of <hi>Caera Muſtapha,</hi> the prime <hi>Vizier,</hi> even to the value of a Million of Crowns; the greateſt part whereof in ready Money and Jewels; as alſo every Soldier furniſhed with ſomething of value, more than a Hundred pieces of Cannon, ſeveral thouſand Quintals of Powder, and ſufficient Proviſions for the ſubſiſtance of the <hi>Turkiſh</hi> Army for three Months. After this happy Effort, his Imperial Majeſty arrived on the Fourteenth of the ſame Month in <hi>Vienna,</hi> where being the next day ſolemnly congratulated on the part of the King of <hi>Poland,</hi> and invited into the Camp by his Under-Chancellor, by <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>om he preſented the general Standart of the Prime <hi>Vizier;</hi> thereupon his Majeſty left the City, and met the King of <hi>Poland,</hi> who was at that time at the Head of his Troops, to diſpoſe them for a March, and they approached each other on Horſeback, expreſſing all poſſible demonſtration of Friendſhip and Reciprocal love.</p>
+            <p>Afterwards the Army took their way for <hi>Hungary,</hi> to purſue the Enemy, and to beſiege ſome important Garriſon, as ſhall be judged moſt opportune, and take up Winter-Quarters for the Army, as far as poſſible in the Enemies Country.</p>
+            <p>The ſaid Envoy, above the Relation that he moſt humbly preſents to his Majeſty, ſignifies how the King of <hi>Poland</hi> did Communicate to his Imperial Majeſty an Original Letter, Signed and Sealed by above Twenty <hi>Hungarian</hi> Lords, in which they Congratulate the common Enemy of Chriſten<g ref="char:EOLhyphen"/>dom, the <hi>Turk,</hi> with the good ſucceſs he had to that time obtained, wiſhing him alſo the taking of <hi>Vienna,</hi> with a farther happy progreſs of his Arms; which horrid Treaſon, as it can in no wiſe be preſidented in a Chriſtian; ſo no rigorous proceeding for the future, can be attributed ſufficiently enough to be rendred to ſuch kind of Traytors, ſeeing it is not a matter of Religion, which does intereſt them in it, and many of the Catholick <hi>Hungarian</hi> Lords being Conſpirators in this execrable action. In fine the ſaid Envoy, moſt earneſtly declares, by the expreſs inſtances of the Emperour his Maſter, that the <hi>Turk</hi> notwithſtanding the defeat of many Thouſands of his Men, and four Millions of Money loſs, may be excited to purſue a Bloody Revenge, his force being not ſo far a<g ref="char:EOLhyphen"/>bated but that he may as yet appear very powerful.</p>
+            <p>And therefore his Imperial Majeſty finds himſelf obliged to reiterate his Inſtances with the Chriſtian Princes, for a ſuccour proportionable to the danger which threatens Chriſtendom; and that it may pleaſe your Majeſty to afford the Emperour his Maſter, ſome ready aſſiſtance towards the tranquillity of <hi>Europe:</hi> for which the ſaid Envoy has already made his requeſt to your Majeſty for, and of which now he promiſes himſelf a happy ſucceſs in.</p>
+            <closer>
+               <dateline>Done at <hi>London.</hi>
+               </dateline>
+               <signed>Count de Thunn.</signed>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON:</hi> Printed for <hi>L. Curtis,</hi> 1683.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
